@@ -1,0 +1,3 @@
+reino_animal.interfaces.Camina
+reino_animal.interfaces.Mamifero
+reino_animal.interfaces.Anfibio
